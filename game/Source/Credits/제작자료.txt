@@ -1,0 +1,22 @@
+﻿결번 · 마지막 예비종 — 인물 자료와 제작 정보
+
+게임의 배경, 은람고 야간부와 인물들의 이야기, 퍼즐, 사건 및 선택지, 교내 소품, 음악과 효과음은 이 게임용으로 구성했습니다. 게임 실행 시 네트워크에서 자료를 받는 기능은 없습니다.
+
+인체와 장착물의 원형
+MakeHuman Community의 hm08 인체 메시, 얼굴 변형, 기본 골격과 가중치, 눈·눈썹·속눈썹·치아, 머리카락 long01 / bob01 / ponytail01, female_elegantsuit01 및 shoes01 자료를 바탕으로 인물 세 명과 1인칭 손을 제작했습니다. 각 캐릭터의 체형·얼굴·앞머리·홍채·옷감·교표·소품·색상, 손가락 포즈, 게임용 리깅과 애니메이션을 가공했습니다.
+
+MakeHuman 기본 자산에는 CC0 1.0 Universal이 명시되어 있습니다. 저작권 표기에 기재된 기여자는 Data Collection AB, Joel Palmius, Jonas Hauquier 외 MakeHuman 기여자들입니다. 원문은 이 폴더의 MakeHuman-CC0.txt에 들어 있습니다.
+
+원형 및 변형과 골격 자료
+https://github.com/makehumancommunity/makehuman
+https://github.com/makehumancommunity/makehuman/blob/master/LICENSE.ASSETS.md
+
+MakeHuman 기본 의상·머리카락·치아 배포 데이터 사본
+https://github.com/vidya-hub/makehuman-core
+
+기본 피부 및 신발의 압축 텍스처 사본
+https://github.com/Aweswomedude1234/GTChennai
+이 경로에서 사용한 파일은 MakeHuman 기본 자산의 young_lightskinned_female_diffuse3.jpg 및 shoes01_diffuse.jpg입니다. 실행용 눈동자, 앞머리, 재킷, 치마, 리본과 교표 텍스처는 제작 스크립트에서 생성합니다.
+
+Source\data의 campus.jpg와 company.cast가 실행 파일에 포함됩니다. Source\Artwork에는 캐릭터를 다시 가공할 원형과 제작 스크립트가 있습니다. 기본 실행과 게임 코드 빌드에는 Python이 필요하지 않습니다.
+
